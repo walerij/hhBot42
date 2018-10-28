@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHBot42", "HHBot42\HHBot42.csproj", "{ADC30949-FE48-4B09-8F42-30F4E43C02FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB952B3-8AE2-4268-9846-8CE3244F513B}
+	EndGlobalSection
+EndGlobal
