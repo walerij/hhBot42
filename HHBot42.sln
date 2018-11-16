@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHBot42", "HHBot42\HHBot42.csproj", "{ADC30949-FE48-4B09-8F42-30F4E43C02FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHBotLib", "HHBotLib\HHBotLib.csproj", "{FB8E2E21-A65A-4119-A174-F9DDBD1F328B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBot", "WpfBot\WpfBot.csproj", "{8F25FB07-9692-41C0-99A2-3B6D1A122807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC30949-FE48-4B09-8F42-30F4E43C02FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8E2E21-A65A-4119-A174-F9DDBD1F328B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8E2E21-A65A-4119-A174-F9DDBD1F328B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8E2E21-A65A-4119-A174-F9DDBD1F328B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8E2E21-A65A-4119-A174-F9DDBD1F328B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F25FB07-9692-41C0-99A2-3B6D1A122807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F25FB07-9692-41C0-99A2-3B6D1A122807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F25FB07-9692-41C0-99A2-3B6D1A122807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F25FB07-9692-41C0-99A2-3B6D1A122807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
